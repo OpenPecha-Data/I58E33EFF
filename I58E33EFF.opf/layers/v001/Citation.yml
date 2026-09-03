@@ -1,0 +1,35 @@
+id: d1f2e1efb8c745978662b21d913b0aab
+annotation_type: Citation
+revision: '00001'
+annotations:
+  30d8be70bf4b4e90a5f843ab1a266fe8:
+    span:
+      start: 1859
+      end: 2015
+    isverse: false
+  3cdbc8b9430e4068aaa3797774fae46d:
+    span:
+      start: 3345
+      end: 3447
+    isverse: false
+  d2c84667d11646b9ae0459d74d643f96:
+    span:
+      start: 7673
+      end: 8294
+    isverse: false
+  547571a03ec34a4d9a0f353ba8f4a898:
+    span:
+      start: 9995
+      end: 10400
+    isverse: false
+  7a2701cc60c04c7bae1dbbe413894b18:
+    span:
+      start: 11956
+      end: 12031
+    isverse: false
+local_ids:
+  30d8be70bf4b4e90a5f843ab1a266fe8: 200000
+  3cdbc8b9430e4068aaa3797774fae46d: 200001
+  d2c84667d11646b9ae0459d74d643f96: 200002
+  547571a03ec34a4d9a0f353ba8f4a898: 200003
+  7a2701cc60c04c7bae1dbbe413894b18: 200004

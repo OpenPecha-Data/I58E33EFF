@@ -1,0 +1,21 @@
+id: I58E33EFF
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-012
+  title: ''
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-012
+  cover: BOK-012.jpg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: BOK-012
+  cover: BOK-012.jpg
+layers:
+- Author
+- Chapter
+- Citation
+- Commentary
